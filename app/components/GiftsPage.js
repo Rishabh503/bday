@@ -2,91 +2,11 @@
 import { useState } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
 import { Gift, Lock, Unlock, Heart, ArrowRight, Star, Camera } from 'lucide-react'
+import { gifts,notes ,recentPhotos } from '@/public/data/memories'
 
 export default function GiftsPage({ onNext }) {
   const [unlockedGifts, setUnlockedGifts] = useState(new Set())
 
-  const gifts = [
-    {
-      id: 1,
-      title: "Memory Book 📚",
-      description: "A collection of our favorite memories together",
-      image: "https://res.cloudinary.com/demo/image/upload/w_300,h_200,c_fill/sample.jpg",
-      message: "This memory book contains all our precious moments from the past year. Every page tells a story of laughter, adventures, and the bond we share. Flip through and relive these beautiful memories!",
-      color: "from-pink-400 to-rose-500"
-    },
-    {
-      id: 2,
-      title: "Friendship Bracelet ✨",
-      description: "A symbol of our unbreakable bond",
-      image: "https://res.cloudinary.com/demo/image/upload/w_300,h_200,c_fill/sample2.jpg",
-      message: "This special bracelet represents our friendship that grows stronger with each passing day. Wear it as a reminder that you're always loved and cherished!",
-      color: "from-purple-400 to-indigo-500"
-    },
-    {
-      id: 3,
-      title: "Adventure Fund 💰",
-      description: "For your next amazing adventure",
-      image: "https://res.cloudinary.com/demo/image/upload/w_300,h_200,c_fill/sample3.jpg",
-      message: "Here's some money to fund your next big adventure! Whether it's traveling to a new place or trying something exciting, this is to help make those dreams come true!",
-      color: "from-green-400 to-emerald-500"
-    },
-    {
-      id: 4,
-      title: "Custom Playlist 🎵",
-      description: "Songs that remind us of you",
-      image: "https://res.cloudinary.com/demo/image/upload/w_300,h_200,c_fill/sample4.jpg",
-      message: "A carefully curated playlist of songs that capture your spirit and remind us of the amazing times we've shared. Each song holds a special meaning and memory!",
-      color: "from-blue-400 to-cyan-500"
-    },
-    {
-      id: 5,
-      title: "Photo Collage 📸",
-      description: "Our recent favorite moments captured",
-      image: "https://res.cloudinary.com/demo/image/upload/w_300,h_200,c_fill/sample5.jpg",
-      message: "A beautiful collage of our recent photos together - from spontaneous selfies to planned photoshoots. These moments capture the joy and fun we have together!",
-      color: "from-yellow-400 to-orange-500"
-    },
-    {
-      id: 6,
-      title: "Handwritten Letters 💌",
-      description: "Personal messages from loved ones",
-      image: "https://res.cloudinary.com/demo/image/upload/w_300,h_200,c_fill/sample.jpg",
-      message: "A collection of heartfelt handwritten letters from family and friends, each expressing their love and best wishes for your special day!",
-      color: "from-red-400 to-pink-500"
-    }
-  ]
-
-  const recentPhotos = [
-    {
-      id: 1,
-      url: "https://res.cloudinary.com/demo/image/upload/w_300,h_300,c_fill/sample.jpg",
-      caption: "That amazing day at the beach! 🏖️"
-    },
-    {
-      id: 2,
-      url: "https://res.cloudinary.com/demo/image/upload/w_300,h_300,c_fill/sample2.jpg",
-      caption: "Coffee dates are the best dates ☕"
-    },
-    {
-      id: 3,
-      url: "https://res.cloudinary.com/demo/image/upload/w_300,h_300,c_fill/sample3.jpg",
-      caption: "Adventures in the city 🏙️"
-    },
-    {
-      id: 4,
-      url: "https://res.cloudinary.com/demo/image/upload/w_300,h_300,c_fill/sample4.jpg",
-      caption: "Movie night was epic! 🍿"
-    }
-  ]
-
-  const notes = [
-    "You make every ordinary day feel extraordinary! ✨",
-    "Your smile is contagious and lights up everyone's day 😊",
-    "Thank you for being such an amazing person in our lives 💕",
-    "Here's to more adventures and memories together! 🎉",
-    "Your 20s are going to be absolutely incredible! 🚀"
-  ]
 
   const unlockGift = (giftId) => {
     setUnlockedGifts(prev => new Set([...prev, giftId]))
@@ -177,7 +97,7 @@ export default function GiftsPage({ onNext }) {
         </div>
 
         {/* Recent Photos Section */}
-        <motion.div
+        {/* <motion.div
           initial={{ opacity: 0, y: 50 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 1.5, duration: 0.8 }}
@@ -214,7 +134,7 @@ export default function GiftsPage({ onNext }) {
               </motion.div>
             ))}
           </div>
-        </motion.div>
+        </motion.div> */}
 
         {/* Special Notes */}
         <motion.div
