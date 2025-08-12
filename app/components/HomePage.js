@@ -99,7 +99,7 @@ export default function HomePage({ onStart }) {
           className="px-12 py-6 bg-gradient-to-r from-pink-500 to-purple-600 text-white text-2xl font-semibold rounded-full shadow-2xl hover:shadow-pink-300/50 transition-all duration-300 flex items-center gap-3 mx-auto"
         >
           <Gift className="w-8 h-8" />
-          Let's Celebrate!
+          Let s Celebrate!
           <Gift className="w-8 h-8" />
         </motion.button>
 

@@ -189,14 +189,14 @@ export default function MemoriesPage({ onHome }) {
               From 19 to 20: A Year of Growth 🌟
             </h2>
             <p className="text-lg text-gray-700 leading-relaxed mb-6">
-              Looking back at your 19th birthday, we can see how much you've grown and accomplished this year. 
-              From that wonderful celebration to this moment of turning 20, you've continued to amaze everyone 
+              Looking back at your 19th birthday, we can see how much youve grown and accomplished this year. 
+              From that wonderful celebration to this moment of turning 20, you ve continued to amaze everyone 
               with your kindness, determination, and beautiful spirit. Each memory from last year has been a 
               stepping stone to the incredible person you are today!
             </p>
             <div className="flex items-center justify-center gap-4 text-2xl">
               <Heart className="text-red-500 fill-current" />
-              <span className="text-purple-700 font-semibold"> Here's to many more years of beautiful memories!</span>
+              <span className="text-purple-700 font-semibold"> Here is to many more years of beautiful memories!</span>
               <Heart className="text-red-500 fill-current" />
             </div>
           </div>
@@ -235,7 +235,7 @@ export default function MemoriesPage({ onHome }) {
           <p className="text-lg text-gray-700 max-w-3xl mx-auto">
             May this new decade bring you endless joy, exciting adventures, amazing opportunities, 
             and all the love your heart can hold. You deserve all the happiness in the world! 
-            Here's to making this year the best one yet! ✨🎈🎁
+            Here is to making this year the best one yet! ✨🎈🎁
           </p>
         </motion.div>
       </motion.div>

@@ -176,7 +176,7 @@ export default function GiftsPage({ onNext }) {
             onClick={onNext}
             className="px-12 py-4 bg-gradient-to-r from-indigo-600 to-purple-600 text-white text-xl font-semibold rounded-full shadow-xl hover:shadow-indigo-300/50 transition-all duration-300 flex items-center gap-3 mx-auto hover:scale-105"
           >
-            Last Year's Memories
+            Last Year Memories
             <ArrowRight className="w-6 h-6" />
           </button>
         </motion.div>
