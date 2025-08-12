@@ -20,7 +20,7 @@ export   const messages = [
     {
       id: 4,
       title: "Apki Thori Aur TAREEF",
-      image:"https://res.cloudinary.com/dhe9p6bo0/image/upload/v1741594099/memories/soqw8rgftvibmqprknsy.jpg",
+      image:"https://res.cloudinary.com/dhe9p6bo0/image/upload/v1741629279/memories/duyx1d5ojuowvtj2zpf4.jpg",
       message: "Apart from memories i admire you alot me terse bahut kuch seekhta hu🫂❤ merko sehne jitna patience rkhna😂 sbki baski bt ni only you can handle a cutie like me🥹💗 i always look out for best things for us and specially you because ik you r my pretty little baby and I have to take care of you❤💗🫂🫂 wrna godi lo godi lo krne lgegi🤣🤣😭🫂💖 ek br godi leke pani me fek chuka hu ab br br mt bolna wrna agli br ese jagah fekuga yd rahega hmesha🤭💗"
     },
     {
@@ -38,7 +38,7 @@ export   const messages = [
     },
     {
       id: 7,
-      title: "What good hAve you donee",
+      title: "Why you so special ???",
       image: "https://res.cloudinary.com/dhe9p6bo0/image/upload/v1741547297/memories/nvrbnasx5gxnk3mm9hth.jpg",
       message: "Watching you chase your dreams with such determination inspires everyone around you. Never stop believing in yourself!"
     },

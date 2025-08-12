@@ -1,7 +1,8 @@
 'use client'
 import { motion } from 'framer-motion'
 import { Sparkles, Heart, Gift } from 'lucide-react'
-
+import pic from "../../public/pic.jpg"
+import Image from 'next/image'
 export default function HomePage({ onStart }) {
   return (
     <div className="min-h-screen flex items-center justify-center p-4 relative overflow-hidden">
@@ -43,8 +44,8 @@ export default function HomePage({ onStart }) {
           className="mb-8"
         >
           <div className="w-64 h-64 mx-auto rounded-full overflow-hidden border-8 border-white shadow-2xl bounce-gentle">
-            <img 
-              src="https://res.cloudinary.com/demo/image/upload/w_400,h_400,c_fill,g_face/sample.jpg"
+            <Image 
+              src={pic}
               alt="Birthday Person"
               className="w-full h-full object-cover"
             />
