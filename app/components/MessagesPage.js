@@ -23,8 +23,8 @@ export default function MessagesPage({ onNext }) {
       >
         {/* Header */}
         <div className="text-center mb-12">
-          <h1 className="text-5xl font-bold bg-gradient-to-r from-purple-600 to-pink-600 bg-clip-text text-transparent mb-4">
-            20 Messages of Love
+          <h1 className="text-2xl font-bold bg-gradient-to-r from-purple-600 to-pink-600 bg-clip-text text-transparent mb-4">
+            20 Wishes for your 20th Birthday
           </h1>
           <p className="text-xl text-gray-600">
             Each message holds a special memory and wish for you ✨
@@ -73,7 +73,7 @@ export default function MessagesPage({ onNext }) {
                           <img 
                             src={msg.image}
                             alt={`Memory ${msg.id}`}
-                            className="w-full h-48 object-cover rounded-xl shadow-md"
+                            className="w-full max-h-80 object-contain rounded-xl shadow-md bg-gray-50"
                           />
                         </div>
                         <div className="flex-1">
