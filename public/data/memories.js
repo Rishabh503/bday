@@ -133,16 +133,16 @@ export   const messages = [
     },
     {
       id: 2,
-      title: "Necklace",
-      description: "A symbol of our unbreakable love",
+      title: "Remove the Paper",
+      description: "A precious gift for my precious one",
       image: "https://res.cloudinary.com/demo/image/upload/w_300,h_200,c_fill/sample2.jpg",
       message: "This special necklace is my choice its literally real silver and i am so nervouse terko psnd bhi ayega ya ni because i havent brought this much jwellery in past so kesa laga btana jrur hehe",
       color: "from-purple-400 to-indigo-500"
     },
     {
       id: 3,
-      title: "Its a Keychain",
-      description: "Guess the design cutiee",
+      title: "Dont Turn it ",
+      description: "This is about someone who can probably steal you from me",
       image: "https://res.cloudinary.com/demo/image/upload/w_300,h_200,c_fill/sample3.jpg",
       message: "Sometime back i got to know about that you love Some boy called HARRY POTTER kon h ye ladkaa ..khair ab mene apke liye ek keychain la di taki you dont miss him yd rkhuga hmesha kisne cheena apko merse",
       color: "from-green-400 to-emerald-500"
@@ -181,33 +181,33 @@ export   const messages = [
     }
   ]
 
-  export const recentPhotos = [
-    {
-      id: 1,
-      url: "https://res.cloudinary.com/demo/image/upload/w_300,h_300,c_fill/sample.jpg",
-      caption: "That amazing day at the beach! 🏖️"
-    },
-    {
-      id: 2,
-      url: "https://res.cloudinary.com/demo/image/upload/w_300,h_300,c_fill/sample2.jpg",
-      caption: "Coffee dates are the best dates ☕"
-    },
-    {
-      id: 3,
-      url: "https://res.cloudinary.com/demo/image/upload/w_300,h_300,c_fill/sample3.jpg",
-      caption: "Adventures in the city 🏙️"
-    },
-    {
-      id: 4,
-      url: "https://res.cloudinary.com/demo/image/upload/w_300,h_300,c_fill/sample4.jpg",
-      caption: "Movie night was epic! 🍿"
-    }
-  ]
+//   export const recentPhotos = [
+//     {
+//       id: 1,
+//       url: "https://res.cloudinary.com/demo/image/upload/w_300,h_300,c_fill/sample.jpg",
+//       caption: "That amazing day at the beach! 🏖️"
+//     },
+//     {
+//       id: 2,
+//       url: "https://res.cloudinary.com/demo/image/upload/w_300,h_300,c_fill/sample2.jpg",
+//       caption: "Coffee dates are the best dates ☕"
+//     },
+//     {
+//       id: 3,
+//       url: "https://res.cloudinary.com/demo/image/upload/w_300,h_300,c_fill/sample3.jpg",
+//       caption: "Adventures in the city 🏙️"
+//     },
+//     {
+//       id: 4,
+//       url: "https://res.cloudinary.com/demo/image/upload/w_300,h_300,c_fill/sample4.jpg",
+//       caption: "Movie night was epic! 🍿"
+//     }
+//   ]
 
   export const notes = [
-    "You make every ordinary day feel extraordinary! ✨",
-    "Your smile is contagious and lights up everyone's day 😊",
-    "Thank you for being such an amazing person in our lives 💕",
-    "Here's to more adventures and memories together! 🎉",
-    "Your 20s are going to be absolutely incredible! 🚀"
+    "Tum ho to sb Acha hai ✨",
+    "You are the reason i can come to college daily 😊",
+    "If my life was a Dish you would have been the spice it neededd💕",
+    "I promise to be with you always and be better always🎉",
+    "HAPPIEST 20TH BIRTHDAY MY LOVE ❤️ "
   ]
