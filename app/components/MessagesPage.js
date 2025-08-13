@@ -81,8 +81,8 @@ export default function MessagesPage({ onNext }) {
                             {msg.message}
                           </p>
                           <div className="flex items-center gap-2 text-pink-600">
-                            <Heart className="w-5 h-5 fill-current" />
-                            <span className="text-sm font-medium">With lots of love</span>
+                           
+                            
                           </div>
                         </div>
                       </div>

@@ -40,85 +40,100 @@ export   const messages = [
       id: 7,
       title: "Why you so special ???",
       image: "https://res.cloudinary.com/dhe9p6bo0/image/upload/v1741547297/memories/nvrbnasx5gxnk3mm9hth.jpg",
-      message: "Watching you chase your dreams with such determination inspires everyone around you. Never stop believing in yourself!"
+      message: "You will be so special to me you because of the way we are🥺💗 we never hide anything we share every thing with each other ..we take care of each other we fight like  kids and then come back to each other like adults🥹💕💗 at the end every moment with u is special and it's unimaginable thing for me to lose you😭❤🫂"
     },
     {
       id: 8,
       title: "Teri Pyari Harqate",
       image: "https://res.cloudinary.com/dhe9p6bo0/image/upload/v1741545464/memories/htc3dme8uezp5wkoqtfw.jpg",
-      message: "Your adventurous spirit and love for exploring new places always amazes us. The world is your playground!"
+      message: "Pyari harqate 😕😕are sb harqate pyari h apki madam mere gaal khichna unko kat Lena meri naak kat Lena ..class me wo lath pe lath rkh k baithna🤣❤🫂 it's the most unique way of chippking to each other for real ...then those metro lift moments🤭🫂❤ and those hugs when u go .. but tune puchi dena bnd krdiya h merko ab jate hue please continue that😭😭🥹..you and your harqate have a special place in my dil😁😁🫂💋"
     },
     {
       id: 9,
       title: "Some greatest Memories",
       image: "https://res.cloudinary.com/dhe9p6bo0/image/upload/v1741510586/memories/lj2bwqrgqm25cxati6oi.jpg",
-      message: "On top its jhula pool parites"
+      message: "Greatest memories me I would like to also count the csi ipl day🥹😭❤ when I lifted you then those pool parties of csi the only good thing about them🥰😂 and is br wali pool party was pretty owsm 😂🌍 then our cute moments when we laugh like idiots 🤭"
     },
     {
       id: 10,
       title: "You are my real motivation",
       image: "https://res.cloudinary.com/dhe9p6bo0/image/upload/v1741509699/memories/x17qtpyn2grblopmju1p.jpg",
-      message: "Every birthday has been special, but this 20th one is extra magical! You're stepping into an exciting new decade!"
+      message: "Not about memories but the way u are it helps me grow because when I look at you I can see the hunger of doing something 🥹❤ which also pushes me to do work  you know what you can do best what's your best way and how you can get the work ..so i have learnt alot of things from you 🫂❤"
     },
     {
       id: 11,
       title: "Pretty Little Baby Vibes",
       image: "https://res.cloudinary.com/dhe9p6bo0/image/upload/v1741507915/memories/mwicgy58xy0atkao0fqi.jpg",
-      message: "Despite being young, you have wisdom beyond your years. Your advice and perspective always amazes everyone!"
+      message: "Pretty little baby hi kehde apko🥹🫂 because teri voice is literally pretty little baby wali when you are with me 🥺🌍. Teri harqate tera merse chipkna merko dhunda bheed me ....abhi jo metro wala incident hua jb you started crying just because you missed me 😭❤ aisi chize k baad bhi kehti h baby nhi hu me😭🫂 ...aise moments se merko rona ajaata  h💖🫂 pr it's all worth😋❤"
     },
     {
       id: 12,
       title: "Future Niyati",
-      image: "https://res.cloudinary.com/demo/image/upload/w_300,h_200,c_fill/sample2.jpg",
-      message: "Your dreams are valid and achievable! Keep reaching for the stars because you deserve all the success in the world!"
+      image: "https://res.cloudinary.com/dhe9p6bo0/image/upload/v1741510625/memories/i6zex6uzp8ifp7e3gagn.jpg",
+      message: "It's too early to predict future but but jesa ki apke internship me mene. Dekha i can proudly say agr app thori aur  mehnat kro jitni app krte ho use  jo ki you will for sure do ik then you will be so close to live the life you always wanted🥰❤ ..i have felt your future plans too pr I won't say them because kuch to secrets bhi rkhne hote🥺💖"
     },
     {
       id: 13,
       title: "You & just You",
       image: "https://res.cloudinary.com/dhe9p6bo0/image/upload/v1755028111/WhatsApp_Image_2025-08-12_at_19.46.04_94ce6501_vyp0kl.jpg",
-      message: "Your infectious laughter can light up any room! Thank you for bringing so much joy into our lives!"
+      message: "You and you just means you and only you are the part of the best part of my life 🫂❤ idkh I don't have much Friend all of my gossips ..tnsn... victories..cheers emotions goes to you and you only..and you handle it very well sometime I do feel that you don't love me and blah blah but whenever I need someone ..you and only you  were there ...you are the answers to all my shorrrr🥺💖 gaana dala"
     },
-    {
-      id: 14,
-      title: "A lil bit about the unsaid side of youuu",
-      image: "https://res.cloudinary.com/dhe9p6bo0/image/upload/v1755028101/WhatsApp_Image_2025-08-12_at_19.46.04_2165251e_qlbo4z.jpg",
-      message: "You're always there to lend a helping hand or a listening ear. Your support means the world to everyone who knows you!"
-    },
+   {
+  id: 14,
+  title: "Our BOND",
+  image: "https://res.cloudinary.com/dhe9p6bo0/image/upload/v1755028101/WhatsApp_Image_2025-08-12_at_19.46.04_2165251e_qlbo4z.jpg",
+  message: `Your bond is the boondi of motichoor ke laddu,
+  the kaju of the kaju katli,
+  the malai of the ras malai,
+  and the musical notes of any song.
+
+  Tum ho to is pe yaqeen hai  
+  Tum ho toh sab achha hai  
+  Tum ho to waqt thama hai  
+  Tum ho to ye lamha hai  
+  Tum ho to iss mein sada hai`
+}
+,
     {
       id: 15,
-      title: "Our BOND",
+      title: "What you mean to me",
       image: "https://res.cloudinary.com/dhe9p6bo0/image/upload/v1741500540/memories/z7epjedtf7gxqqil7npb.jpg",
-      message: "There's absolutely no one like you in this world! Your unique personality and quirks make you absolutely perfect!"
+      message:` There's absolutely no doubt ki you mean the world to me pr i would descibe it in few line,
+      Tere binaa chaand kaa sonaa khotaa re,
+      Peeli peeli dhool undaawe jhootaa re
+      Tere binaa sonaa peetal
+      Tere sang keekar peepal
+      `
     },
     {
       id: 16,
       title: "Us together",
       image: "https://res.cloudinary.com/dhe9p6bo0/image/upload/v1755028044/WhatsApp_Image_2025-08-12_at_19.44.51_d5ff386d_yiaomq.jpg",
-      message: "Watching you grow and evolve over the years has been incredible. You've become such a wonderful person!"
+      message: "Hum dono sath hote hai to apna best de pate h is what I feel ...the end sem exams are the saboot ki hum sth taiyari kre to we get better results❤🫂...hum sth hote hai to🌍😭 things fall in place..we fight for the things we want 🥺❤we don't stop saying wrong things ..we want to achieve alot of things and we will surely do so🥺🫂..we will write our future together maybe I'm different areas but together for sure🥺❤"
     },
     {
       id: 17,
       title: "Hamare secrets laugh emoji",
       image: "https://res.cloudinary.com/dhe9p6bo0/image/upload/v1755028251/WhatsApp_Image_2025-08-13_at_01.20.25_622dc404_ee3x8l.jpg",
-      message: "Your talents and abilities continue to amaze us! Whether it's singing, dancing, or any other skill - you excel at everything!"
+      message: "Hamare jyada to kya hi secrets hai bs dusro ke hum ek dusre ko bta dete h😭😂 2-4 logo ki burai sath krlete h...3-4 ko gaali dedeye h sath..and then comes our xute collection of whatsapp stickers 😂🫂 good morning mere allu ke paranthe boondi ke ladu se leke Okk bye tk sb hai apne pass agr hum ise ek startup bana de to bahut chlega ..and then our cute customised gifts which are very very special 🥹🫂❤"
     },
     {
       id: 18,
       title: "What i Wish For You in my prayers",
       image: "https://res.cloudinary.com/dhe9p6bo0/image/upload/v1741630955/memories/vqenwpdbrz9aii04ziak.jpg",
-      message: "So many beautiful memories have been created with you! Each moment spent together is a treasure we'll always cherish!"
+      message: "So yes you are In my  every prayer ..i always pray for both of us ..and not only things like ki humara future sath me acha ho but also ki tere sth as an individual chize achi ho🥹🫂 i prayed ki terko intern mile..i always pray ki tere paper ache jaye i pray ki tere ghr pe kalesh kam ho tuje sad kam feel ho❤🫂i always pray terko bhgwan dimag se😂🤡🫂 chl chl ab jyada maat hass hogya aj kaa🥹❤❤🫂"
     },
     {
       id: 19,
       title: "What changed after you came",
       image: "https://res.cloudinary.com/dhe9p6bo0/image/upload/v1755028241/WhatsApp_Image_2025-08-13_at_01.20.26_cd7f96e2_jwvqvj.jpg",
-      message: "The future holds so many amazing opportunities for you! We can't wait to see all the incredible things you'll achieve!"
+      message: "What changed after you are in my life is a different topic for me I can give a pura lecture on it🥹🤡❤ pr pr ..it's majorly I have developed as an individual ..I see the world through 2 perspectives now.. terse mene seekha how girls are actually..what they like what can hurt them what's special about them and how much I was missing a bond like this🥹🫂..tere sath hone se dunia humesha achi lgti h ..🫂❤"
     },
     {
       id: 20,
       title: "Finale Msg",
       image: "https://res.cloudinary.com/dhe9p6bo0/image/upload/v1755028246/WhatsApp_Image_2025-08-13_at_01.20.26_ea586659_ebghvx.jpg",
-      message: "We're forever grateful to have you in our lives! Happy 20th Birthday! May this year bring you endless happiness, love, and success! 🎉❤️"
+      message: "Finale msg i have sent you in the WhatsApp dm if u say i will add it here also🥹🫂❤"
     }
   ] 
   
@@ -173,8 +188,8 @@ export   const messages = [
     },
     {
       id: 7,
-      title: "Spiced Cappucino Time",
-      description: "Chal vlog banate haiii",
+      title: "Small Gifts for Smoll gf",
+      description: "Every small item which is there in the box",
       image: "https://res.cloudinary.com/demo/image/upload/w_300,h_200,c_fill/sample.jpg",
       message: "! A little meaningfull gift and its for the youtuber inside you i m always with u in this journey and will always support you till the extend i can and here is a small gesture from my side",
       color: "from-red-400 to-pink-500"
